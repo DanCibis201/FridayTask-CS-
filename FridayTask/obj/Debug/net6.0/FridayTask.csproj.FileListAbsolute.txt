@@ -1,0 +1,15 @@
+D:\Code\C#\FridayTask\FridayTask\bin\Debug\net6.0\FridayTask.exe
+D:\Code\C#\FridayTask\FridayTask\bin\Debug\net6.0\FridayTask.deps.json
+D:\Code\C#\FridayTask\FridayTask\bin\Debug\net6.0\FridayTask.runtimeconfig.json
+D:\Code\C#\FridayTask\FridayTask\bin\Debug\net6.0\FridayTask.dll
+D:\Code\C#\FridayTask\FridayTask\bin\Debug\net6.0\FridayTask.pdb
+D:\Code\C#\FridayTask\FridayTask\obj\Debug\net6.0\FridayTask.csproj.AssemblyReference.cache
+D:\Code\C#\FridayTask\FridayTask\obj\Debug\net6.0\FridayTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\FridayTask\FridayTask\obj\Debug\net6.0\FridayTask.AssemblyInfoInputs.cache
+D:\Code\C#\FridayTask\FridayTask\obj\Debug\net6.0\FridayTask.AssemblyInfo.cs
+D:\Code\C#\FridayTask\FridayTask\obj\Debug\net6.0\FridayTask.csproj.CoreCompileInputs.cache
+D:\Code\C#\FridayTask\FridayTask\obj\Debug\net6.0\FridayTask.dll
+D:\Code\C#\FridayTask\FridayTask\obj\Debug\net6.0\refint\FridayTask.dll
+D:\Code\C#\FridayTask\FridayTask\obj\Debug\net6.0\FridayTask.pdb
+D:\Code\C#\FridayTask\FridayTask\obj\Debug\net6.0\FridayTask.genruntimeconfig.cache
+D:\Code\C#\FridayTask\FridayTask\obj\Debug\net6.0\ref\FridayTask.dll
